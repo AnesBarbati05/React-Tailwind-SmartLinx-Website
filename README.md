@@ -43,4 +43,4 @@ Per qualsiasi domanda o suggerimento, contattaci via email all'indirizzo [nino.z
 
 ## Licenza
 
-Questo progetto è distribuito con la licenza MIT. Per ulteriori informazioni, consulta il file `LICENSE`.
+Questo progetto è distribuito con la licenza MIT. Per ulteriori informazioni, consulta il file `LICENSE`
